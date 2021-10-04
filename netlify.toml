@@ -4,4 +4,5 @@
   
 [build.environment]
   HUGO_VERSION = "0.87.0"
-  HUGO_THEME = "meghna-hugo"
+  HUGO_THEME = "open-mind"
+  HUGO_BASEURL = "https://open-mind.netlify.app/"
