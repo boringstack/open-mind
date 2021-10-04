@@ -1,27 +1,26 @@
 ############################# feature ###################################
 feature:
   enable : true
-  image : images/about/about-business-man.jpg
+  image : images/about/about.jpg
   image_webp : images/about/about-business-man.webp
-  title : We’re A Digital Design Agency.
-  content : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam tempora itaque, autem dolores culpa cum mollitia voluptate nesciunt voluptatibus quasi."
+  title : Die neue Generation von übermorgen.
+  content : "Ingineure und Technik sind nicht nur komplex aber für die Entwicklung das A und O."
   feature_item : 
       # feature item loop
-    - title : SEO Optimized
+    - title : Technik von morgen
       icon : ti-world # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+      content : Technik ist universell und jeder der Interesse hat kann damit anfangen.
       
       # feature item loop
-    - title : Easy Customization
+    - title : Lerne für übermorgen
       icon : ti-panel # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
-
+      content : Wachse mit kleinen Schritten und erreiche Ziele.
       # feature item loop
-    - title : SEO Optimized
+    - title : Lebe heute
       icon : ti-stats-up # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+      content : Widme dich deiner Leidenschaft und bleibe dran.
       
       # feature item loop
-    - title : Easy Customization
+    - title : Sei der unterschied
       icon : ti-announcement # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+      content : Teile dein Wissen und bleib neugierig. 

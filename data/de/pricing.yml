@@ -1,64 +1,74 @@
 ##################################### pricing ##############################
 pricing:
-  enable : true
-  title : Our Plans
+  enable : false
+  title : Unsere Preise
   pricing_table :
     # pricing table loop
-    - name : Free
-      price : $99
-      unit : month
+    - name : Kostenlos
+      price : 0 €
+      unit : monat
       services:
-        - 1GB Disk Space
-        - 10 Email Account
-        - Script Installer
-        - 1 GB Storage
-        - 10 GB Bandwidth
-        - 24/7 Tech Support
-      button:
-        label : "Signup"
-        link : "#"
+        - Öffentliche Beiträge
+        - Ausgwählte Themenbereiche
+        - Download von Artikel als PDF
+        - Gebundene Version von Artikel
+        - Themen vorschlagen 
+        - Übungen ohne Lösung 
       
     # pricing table loop
-    - name : Silver
-      price : $149
-      unit : month
+    - name : Basis 
+      price : 10 € 
+      unit : monat
       services:
-        - 1GB Disk Space
-        - 10 Email Account
-        - Script Installer
-        - 1 GB Storage
-        - 10 GB Bandwidth
-        - 24/7 Tech Support
+        - Zugang zu allen Beiträgen 
+        - 5 Themenbereiche 
+        - Download von Artikel als PDF
+        - Themenvorschlag prioriät
+        - Übungen mit Lösungen
+        - Auswahl zu Karteikarten 
+        - Auswahl zu DIY-Projekte
+        - Keine Werbung
       button:
-        label : "Signup"
+        label : "Anmelden"
         link : "#"
         
     # pricing table loop
-    - name : Gold
-      price : $199
-      unit : month
+    - name : Premium
+      price : 30 €
+      unit : monat
       services:
-        - 1GB Disk Space
-        - 10 Email Account
-        - Script Installer
-        - 1 GB Storage
-        - 10 GB Bandwidth
-        - 24/7 Tech Support
+        - Zugang zu allen Beiträgen 
+        - Alle Themenbereiche 
+        - Download von Artikel als PDF
+        - Gebundene Version von Themen 
+        - Themenvorschlag prioriät
+        - Übungen mit Lösungen
+        - Vollständige Karteikarten 
+        - Alle DIY-Projekte
+        - Premium Material 
+        - Keine Werbung
       button:
-        label : "Signup"
+        label : "Anmelden"
         link : "#"
-        
+    
     # pricing table loop
-    - name : Platinum
-      price : $299
-      unit : month
-      services:
-        - 1GB Disk Space
-        - 10 Email Account
-        - Script Installer
-        - 1 GB Storage
-        - 10 GB Bandwidth
-        - 24/7 Tech Support
-      button:
-        label : "Signup"
-        link : "#"
+#    - name : Platium
+#      price : 100 €
+#      unit : monat
+#      services:
+#        - Zugang zu allen Beiträgen 
+#        - Alle Themenbereiche 
+#        - Download von Artikel als PDF
+#        - Gebundene Version von Themen 
+#        - Themenvorschlag prioriät
+#        - Übungen mit Lösungen
+#        - Vollständige Karteikarten 
+#        - Persönliche Nachhilfe
+#        - Prüfen Bewerbungsunterlagen
+#        - Alle DIY-Projekte
+#        - Premium Themen
+#        - Keine Werbung
+        
+#      button:
+#        label : "Anmelden"
+#        link : "#"
