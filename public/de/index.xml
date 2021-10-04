@@ -90,21 +90,12 @@
     </item>
     
     <item>
-      <title>John Doe</title>
-      <link>https://open-mind.netlify.app/de/author/john-doe/</link>
+      <title>Open Mind</title>
+      <link>https://open-mind.netlify.app/de/author/open-mind/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://open-mind.netlify.app/de/author/john-doe/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sit amet vulputate augue. Duis auctor lacus id vehicula gravida.</description>
-    </item>
-    
-    <item>
-      <title>Mark Dinn</title>
-      <link>https://open-mind.netlify.app/de/author/mark-dinn/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://open-mind.netlify.app/de/author/mark-dinn/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sit amet vulputate augue. Duis auctor lacus id vehicula gravida.</description>
+      <guid>https://open-mind.netlify.app/de/author/open-mind/</guid>
+      <description>Open-mind ist ein Organisation mit dem Ziel Inhalte der Ingineurwissenschaften zu sammeln und zu dokumentieren.</description>
     </item>
     
   </channel>

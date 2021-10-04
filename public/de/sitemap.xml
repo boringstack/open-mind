@@ -11,11 +11,6 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="fr"
-                href="https://open-mind.netlify.app/fr/blog/simple-blog-post-8/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="de"
                 href="https://open-mind.netlify.app/de/blog/simple-blog-post-8/"
                 />
@@ -26,11 +21,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://open-mind.netlify.app/blog/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://open-mind.netlify.app/fr/blog/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -47,11 +37,6 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="fr"
-                href="https://open-mind.netlify.app/fr/blog/installation/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="de"
                 href="https://open-mind.netlify.app/de/blog/installation/"
                 />
@@ -62,11 +47,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://open-mind.netlify.app/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://open-mind.netlify.app/fr/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -83,11 +63,6 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="fr"
-                href="https://open-mind.netlify.app/fr/blog/simple-blog-post-1/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="de"
                 href="https://open-mind.netlify.app/de/blog/simple-blog-post-1/"
                 />
@@ -98,11 +73,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://open-mind.netlify.app/blog/simple-blog-post-2/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://open-mind.netlify.app/fr/blog/simple-blog-post-2/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -119,11 +89,6 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="fr"
-                href="https://open-mind.netlify.app/fr/blog/simple-blog-post-3/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="de"
                 href="https://open-mind.netlify.app/de/blog/simple-blog-post-3/"
                 />
@@ -134,11 +99,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://open-mind.netlify.app/blog/simple-blog-post-4/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://open-mind.netlify.app/fr/blog/simple-blog-post-4/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -155,11 +115,6 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="fr"
-                href="https://open-mind.netlify.app/fr/blog/simple-blog-post-5/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="de"
                 href="https://open-mind.netlify.app/de/blog/simple-blog-post-5/"
                 />
@@ -170,11 +125,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://open-mind.netlify.app/blog/simple-blog-post-6/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://open-mind.netlify.app/fr/blog/simple-blog-post-6/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -191,11 +141,6 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="fr"
-                href="https://open-mind.netlify.app/fr/blog/simple-blog-post-7/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="de"
                 href="https://open-mind.netlify.app/de/blog/simple-blog-post-7/"
                 />
@@ -205,11 +150,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://open-mind.netlify.app/author/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://open-mind.netlify.app/fr/author/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -225,59 +165,17 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="fr"
-                href="https://open-mind.netlify.app/fr/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="de"
                 href="https://open-mind.netlify.app/de/categories/"
                 />
   </url><url>
-    <loc>https://open-mind.netlify.app/de/author/john-doe/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://open-mind.netlify.app/author/john-doe/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://open-mind.netlify.app/fr/author/john-doe/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://open-mind.netlify.app/de/author/john-doe/"
-                />
-  </url><url>
-    <loc>https://open-mind.netlify.app/de/author/mark-dinn/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://open-mind.netlify.app/author/mark-dinn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://open-mind.netlify.app/fr/author/mark-dinn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://open-mind.netlify.app/de/author/mark-dinn/"
-                />
+    <loc>https://open-mind.netlify.app/de/author/open-mind/</loc>
   </url><url>
     <loc>https://open-mind.netlify.app/de/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
                 href="https://open-mind.netlify.app/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://open-mind.netlify.app/fr/tags/"
                 />
     <xhtml:link
                 rel="alternate"
